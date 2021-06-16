@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="HelpingHand/Storyboards/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="3dy-5C-XXv.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "3dy-5C-XXv";</note>
+      </trans-unit>
+      <trans-unit id="6bp-6Q-uRx.title">
+        <source>Profile</source>
+        <target>Profile</target>
+        <note>Class = "UITabBarItem"; title = "Profile"; ObjectID = "6bp-6Q-uRx";</note>
+      </trans-unit>
+      <trans-unit id="6cf-T7-6gS.text">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "6cf-T7-6gS";</note>
+      </trans-unit>
+      <trans-unit id="82Y-xt-8ev.placeholder">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "82Y-xt-8ev";</note>
+      </trans-unit>
+      <trans-unit id="LRe-Ef-Nti.text">
+        <source>Phone number</source>
+        <target>Phone number</target>
+        <note>Class = "UILabel"; text = "Phone number"; ObjectID = "LRe-Ef-Nti";</note>
+      </trans-unit>
+      <trans-unit id="RP2-zz-4k3.text">
+        <source>Full Name</source>
+        <target>Full Name</target>
+        <note>Class = "UILabel"; text = "Full Name"; ObjectID = "RP2-zz-4k3";</note>
+      </trans-unit>
+      <trans-unit id="TKK-3I-WCN.text">
+        <source>Who will you be today?</source>
+        <target>Who will you be today?</target>
+        <note>Class = "UILabel"; text = "Who will you be today?"; ObjectID = "TKK-3I-WCN";</note>
+      </trans-unit>
+      <trans-unit id="TSk-ic-yvP.placeholder">
+        <source>First name</source>
+        <target>First name</target>
+        <note>Class = "UITextField"; placeholder = "First name"; ObjectID = "TSk-ic-yvP";</note>
+      </trans-unit>
+      <trans-unit id="TWF-pB-cDn.placeholder">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "TWF-pB-cDn";</note>
+      </trans-unit>
+      <trans-unit id="UF2-mG-TXC.placeholder">
+        <source>Phone number</source>
+        <target>Phone number</target>
+        <note>Class = "UITextField"; placeholder = "Phone number"; ObjectID = "UF2-mG-TXC";</note>
+      </trans-unit>
+      <trans-unit id="Y5o-q5-4XC.placeholder">
+        <source>Last name</source>
+        <target>Last name</target>
+        <note>Class = "UITextField"; placeholder = "Last name"; ObjectID = "Y5o-q5-4XC";</note>
+      </trans-unit>
+      <trans-unit id="aUA-iU-CIm.text">
+        <source>Requisite Title</source>
+        <target>Requisite Title</target>
+        <note>Class = "UILabel"; text = "Requisite Title"; ObjectID = "aUA-iU-CIm";</note>
+      </trans-unit>
+      <trans-unit id="eIw-Qk-oXO.normalTitle">
+        <source>Don't have an account, yet? Register.</source>
+        <target>Don't have an account, yet? Register.</target>
+        <note>Class = "UIButton"; normalTitle = "Don't have an account, yet? Register."; ObjectID = "eIw-Qk-oXO";</note>
+      </trans-unit>
+      <trans-unit id="hIa-bH-fzp.text">
+        <source>e-mail</source>
+        <target>e-mail</target>
+        <note>Class = "UILabel"; text = "e-mail"; ObjectID = "hIa-bH-fzp";</note>
+      </trans-unit>
+      <trans-unit id="i0f-90-ssA.text">
+        <source>Requisite content</source>
+        <target>Requisite content</target>
+        <note>Class = "UILabel"; text = "Requisite content"; ObjectID = "i0f-90-ssA";</note>
+      </trans-unit>
+      <trans-unit id="i27-q8-rSv.normalTitle">
+        <source>Register</source>
+        <target>Register</target>
+        <note>Class = "UIButton"; normalTitle = "Register"; ObjectID = "i27-q8-rSv";</note>
+      </trans-unit>
+      <trans-unit id="jKA-Ps-V4k.placeholder">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "jKA-Ps-V4k";</note>
+      </trans-unit>
+      <trans-unit id="rb8-lf-njM.placeholder">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "rb8-lf-njM";</note>
+      </trans-unit>
+      <trans-unit id="tNe-DT-ZB8.normalTitle">
+        <source>Sing In</source>
+        <target>Sing In</target>
+        <note>Class = "UIButton"; normalTitle = "Sing In"; ObjectID = "tNe-DT-ZB8";</note>
+      </trans-unit>
+      <trans-unit id="wRA-lP-Q4C.text">
+        <source>What happened?</source>
+        <target>What happened?</target>
+        <note>Class = "UILabel"; text = "What happened?"; ObjectID = "wRA-lP-Q4C";</note>
+      </trans-unit>
+      <trans-unit id="xkO-hh-I7W.title">
+        <source>Help</source>
+        <target>Help</target>
+        <note>Class = "UITabBarItem"; title = "Help"; ObjectID = "xkO-hh-I7W";</note>
+      </trans-unit>
+      <trans-unit id="yN7-6A-877.placeholder">
+        <source>Gender</source>
+        <target>Gender</target>
+        <note>Class = "UITextField"; placeholder = "Gender"; ObjectID = "yN7-6A-877";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="HelpingHand/Supporting files/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

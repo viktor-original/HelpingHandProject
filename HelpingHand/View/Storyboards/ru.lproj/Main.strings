@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3dy-5C-XXv"; */
+"3dy-5C-XXv.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "6bp-6Q-uRx"; */
+"6bp-6Q-uRx.title" = "Profile";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "6cf-T7-6gS"; */
+"6cf-T7-6gS.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "82Y-xt-8ev"; */
+"82Y-xt-8ev.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "LRe-Ef-Nti"; */
+"LRe-Ef-Nti.text" = "Phone number";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "RP2-zz-4k3"; */
+"RP2-zz-4k3.text" = "Full Name";
+
+/* Class = "UILabel"; text = "Who will you be today?"; ObjectID = "TKK-3I-WCN"; */
+"TKK-3I-WCN.text" = "Who will you be today?";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "TSk-ic-yvP"; */
+"TSk-ic-yvP.placeholder" = "First name";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "TWF-pB-cDn"; */
+"TWF-pB-cDn.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "UF2-mG-TXC"; */
+"UF2-mG-TXC.placeholder" = "Phone number";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "Y5o-q5-4XC"; */
+"Y5o-q5-4XC.placeholder" = "Last name";
+
+/* Class = "UILabel"; text = "Requisite Title"; ObjectID = "aUA-iU-CIm"; */
+"aUA-iU-CIm.text" = "Requisite Title";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account, yet? Register."; ObjectID = "eIw-Qk-oXO"; */
+"eIw-Qk-oXO.normalTitle" = "Don't have an account, yet? Register.";
+
+/* Class = "UILabel"; text = "e-mail"; ObjectID = "hIa-bH-fzp"; */
+"hIa-bH-fzp.text" = "e-mail";
+
+/* Class = "UILabel"; text = "Requisite content"; ObjectID = "i0f-90-ssA"; */
+"i0f-90-ssA.text" = "Requisite content";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "i27-q8-rSv"; */
+"i27-q8-rSv.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "jKA-Ps-V4k"; */
+"jKA-Ps-V4k.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "rb8-lf-njM"; */
+"rb8-lf-njM.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Sing In"; ObjectID = "tNe-DT-ZB8"; */
+"tNe-DT-ZB8.normalTitle" = "Sing In";
+
+/* Class = "UILabel"; text = "What happened?"; ObjectID = "wRA-lP-Q4C"; */
+"wRA-lP-Q4C.text" = "What happened?";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "xkO-hh-I7W"; */
+"xkO-hh-I7W.title" = "Help";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "yN7-6A-877"; */
+"yN7-6A-877.placeholder" = "Gender";

@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  HelpingHand
+
+  Created by Viktor Krasilnikov on 02.09.2018.
+  Copyright © 2018 Viktor Krasilnikov. All rights reserved.
+*/
+
+// MARK: - Alert texts
+"REGISTRATION_ERROR" = "Введены некорректные данные";
+"INCORRECT_INPUT" = "Пожалуйста введите корректные данные";
+"AUTHORIZATION_ERROR" = "Ошибка авторизации";
+"EMPTY_INPUT" = "Заполнены не все поля";
+
+// MARK: - Problem titles
+"CAR_ISSUE" = "Машина неисправна";
+"CHILD_LOST" = "Потерялся ребенок";
+"CONFUSED" = "Растерян";
+"CANT_GET_UP" = "Не могу подняться";
+"FIGHT_NEARBY" = "Поблизости драка";
+"SHARE_GOOD_MOOD" = "Поделиться настроением";
+"HEALTH_ISSUE" = "Плохое самочувствие";
+"HEAVY_THINGS" = "Тяжелые вещи";
+"HELP_FOR_DISABLED" = "Помощь инвалиду";
+"I_AM_LATE" = "Опаздываю. Подвезите";
+"HELP_OLDMAN" = "Помощь пожилому";
+"NEED_CASH" = "Нужны наличные";
+"NEED_TO_CALL" = "Нужно позвонить";
+"SAD" = "Мне грустно";
+"SLEEPING_AT_STREET" = "Спящий на улице";
+"SICK_STOMACH" = "Больной желудок";
+"STRANGE_FIND" = "Нашёл чью-то вещь";
+"TOILET_ISSUES" = "Проблемы с туалетом";
+
+// MARK: - Profile titles
+"FIRST_NAME" = "Имя:";
+"LAST_NAME" = "Фамилия:";
+"AGE" = "Возраст:";
+"SEX" = "Пол:";
+"PHONE_NUMBER" = "Номер телефона:";
+"EMAIL" = "Электронаня почта:";
+"DEFAULT_TITLE" = "Здесь будут ваши реквизиты";
+"APPLY_CHANGES_BUTTON" = "Применить";
+"MALE" = "мужской";
+"FEMALE" = "женский";
+
+// MARK: - Alert strings
+"CONFIRM_HELP_REQUEST_TITLE" = "Вам нужна помощь?";
+"ASK_FOR_HELP" = "Попросить помощи!";
+"CANCEL_HELP_REQUEST" = "Отмена";
+"OFFER_HELP" = "Можете помочь?";
+"HELP" = "Помочь!";
+
+// MARK: - Role Chooser titles
+"CHOOSE_ROLE" = "Кем ты будешь сегодня?";
+"WHAT_HAPPENED" = "Что случилось?";
+
+// MARK: - Tabbar item labels
+"PROFILE" = "Профиль";
+"ROLE" = "Роль";
+
+// MARK: - Authorization and Registration
+"SIGN_IN" = "Войти";
+"REGISTER" = "Зарегистрироваться";
+"USERNAME" = "Имя пользователя";
+"PASSWORD" = "Пароль";
+
+// MARK: - Map
+"YOU_ARE_HERE" = "Вы сейчас здесь";
+"INFO" = "Инфо";
+"NAVIGATE_TO" = "Сейчас будет построен маршрут";
+
+

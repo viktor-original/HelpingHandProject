@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  HelpingHand
+
+  Created by Viktor Krasilnikov on 02.09.2018.
+  Copyright © 2018 Viktor Krasilnikov. All rights reserved.
+*/
+
+
+// MARK: - Alert texts
+"REGISTRATION_ERROR" = "Registration error";
+"INCORRECT_INPUT" = "Please enter correct data";
+"AUTHORIZATION_ERROR" = "Authorization error";
+"EMPTY_INPUT" = "Some fields are empty";
+
+// MARK: - Problem titles
+"CAR_ISSUE" = "Car issue";
+"CHILD_LOST" = "Child lost";
+"CONFUSED" = "Confused";
+"CANT_GET_UP" = "Can't get up";
+"FIGHT_NEARBY" = "Fight nearby";
+"SHARE_GOOD_MOOD" = "Share good mood";
+"HEALTH_ISSUE" = "Health issue";
+"HEAVY_THINGS" = "Heavy things";
+"HELP_FOR_DISABLED" = "Help for disabled";
+"I_AM_LATE" = "I'm late";
+"HELP_OLDMAN" = "Help for oldman";
+"NEED_CASH" = "Need cash";
+"NEED_TO_CALL" = "Need to call";
+"SAD" = "Sad";
+"SLEEPING_AT_STREET" = "Sleeping at street";
+"SICK_STOMACH" = "Sick stomach";
+"STRANGE_FIND" = "Suspicious find";
+"TOILET_ISSUES" = "Toilet issues";
+
+// MARK: - Profile titles
+"FIRST_NAME" = "First name:";
+"LAST_NAME" = "Last name:";
+"AGE" = "Age:";
+"SEX" = "Sex:";
+"PHONE_NUMBER" = "Phone number:";
+"EMAIL" = "E-mail:";
+"DEFAULT_TITLE" = "Here will be your requisites";
+"APPLY_CHANGES_BUTTON" = "Apply changes";
+"MALE" = "male";
+"FEMALE" = "female";
+
+// MARK: - Alert strings
+"CONFIRM_HELP_REQUEST_TITLE" = "Do you need help?";
+"ASK_FOR_HELP" = "Ask for help!";
+"CANCEL_HELP_REQUEST" = "Cancel";
+"OFFER_HELP" = "Offer help?";
+"HELP" = "Help!";
+
+// MARK: - Role Chooser titles
+"CHOOSE_ROLE" = "Who will you be today?";
+"WHAT_HAPPENED" = "What happened?";
+
+// MARK: - Tabbar item labels
+"PROFILE" = "Profile";
+"ROLE" = "Role";
+
+// MARK: - Authorization and Registration
+"SIGN_IN" = "Sign in";
+"REGISTER" = "Register";
+"USERNAME" = "Username";
+"PASSWORD" = "Password";
+
+// MARK: - Map
+"YOU_ARE_HERE" = "You are here";
+"INFO" = "Info";
+"NAVIGATE_TO" = "Now you will be navigated to the place";
